@@ -1,0 +1,169 @@
+body {
+background:#ffe;
+font-size:12px;
+overflow:auto;
+margin:0;
+padding:0;
+}
+#mainDiv{
+height:150%;
+width:150%;
+}
+#loveHeart {
+float:left;
+width:670px;
+height:625px;
+}
+#words {
+font-family:sans-serif;
+width:550px;
+font-size:24px;
+color:#666;
+}
+#note {
+float:left;
+width:550px;
+height:400px;
+color:#333;
+font-family:Consolas,Monaco,"Bitstream Vera Sans Mono","Courier New",sans-serif;
+font-size:10px;
+line-height:1.5;
+margin-left:9px ! important;
+margin-top:-80px ! important;
+display:none;
+}
+#note .string {
+color:#2a36ff;
+}
+#note .keyword {
+color:#7f0055;
+font-weight:700;
+}
+#note .placeholder {
+margin-left:30px;
+}
+#note .space {
+margin-left:7px;
+}
+#note .space2 {
+margin-left:28px;
+}
+#note .space3 {
+margin-left:112px;
+}
+#note .comments {
+color:#3f7f5f;
+}
+#messages {
+display:none;
+}
+#elapseClock {
+text-align:right;
+font-size:18px;
+margin-top:10px;
+margin-bottom:10px;
+}
+#elapseClock .digit {
+font-family:digit;
+font-size:36px;
+}
+#loveu {
+font-size:22px;
+margin-top:80px;
+margin-right:160px;
+text-align:right;
+display:none;
+padding:5px;
+}
+#loveu .signature {
+margin-top:10px;
+font-size:20px;
+font-style:italic;
+}
+
+/*
+#loveHeart {
+float:left;
+width:670px;
+height:625px;
+}
+#elapseClock {
+text-align:right;
+font-size:18px;
+margin-top:10px;
+margin-bottom:10px;
+}
+#elapseClock .digit {
+font-family:digit;
+font-size:36px;
+}
+#words {
+font-family:sans-serif;
+width:500px;
+font-size:24px;
+color:#666;
+}
+#loveu {
+font-size:22px;
+margin-top:80px;
+margin-right:120px;
+text-align:right;
+display:none;
+padding:5px;
+}
+#loveu .signature {
+margin-top:10px;
+font-size:20px;
+font-style:italic;
+}
+#code {
+float:left;
+width:440px;
+height:400px;
+color:#333;
+font-family:Consolas,Monaco,"Bitstream Vera Sans Mono","Courier New",sans-serif;
+font-size:15px;
+line-height:1.5;
+margin-top:-5px ! important;
+}
+#code .string {
+color:#2a36ff;
+}
+#code .keyword {
+color:#7f0055;
+font-weight:700;
+}
+#code .placeholder {
+margin-left:30px;
+}
+#code .space {
+margin-left:7px;
+}
+#code .comments {
+color:#3f7f5f;
+}
+#copyright {
+margin-top:10px;
+text-align:center;
+width:100%;
+color:#666;
+}
+#errorMsg {
+width:100%;
+text-align:center;
+font-size:24px;
+position:absolute;
+top:100px;
+left:0;
+}
+#copyright a {
+color:#666;
+}
+#mainDiv,#garden {
+height:100%;
+width:100%;
+}
+#messages,#clickSound {
+display:none;
+}
+*/
